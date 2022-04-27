@@ -25,7 +25,7 @@ experience:
   - title: Above Ground Biomass Analyst
     company: Kita Earth Limited
     company_url: 'https://kita.earth'
-    company_logo: org-gc
+    company_logo: kita
     location: London
     date_start: '2022-05-03'
     date_end: ''
